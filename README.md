@@ -3,7 +3,7 @@
 
 ---
 
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Saleh-Ahmad&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Saleh-Ahmad&layout=compact&theme=dark)
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSJawabreh&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSJawabreh&layout=compact&theme=dark)
 
 ---
 
