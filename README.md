@@ -11,9 +11,9 @@
 
 - 🎓 **Studying** → BSc Computer Science, The University of Manchester
 - 🤖 **Interested in** → AI Agents, Applied ML, Software Engineering
-- 🛠️ **Diving deeper** → RAG pipelines, computer vision, automation with n8n
+- 🛠️ **Diving deeper** → FastAPI, PostgreSQL, RAG pipelines, computer vision, automation with n8n
 - 💼 **Currently** → AI Intern at AAFAQ Advanced Solutions, Riyadh
-- 🎯 **Goal for the year** → Land a placement year for 2027/28 and go deeper into React
+- 🎯 **Goal for the year** → Land a placement year for 2027/28
 
 ---
 
