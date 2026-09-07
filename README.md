@@ -5,7 +5,6 @@
 ---
 
 ![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSJawabreh&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSJawabreh&theme=dark)
 
 ---
 
