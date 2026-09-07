@@ -15,7 +15,7 @@
 - 🤖 **Interested in** → AI Agents, Applied ML, Software Engineering
 - 🛠️ **Building with** → React, Node.js, Express, PostgreSQL, RAG pipelines, automation with n8n
 - 💼 **Currently** → AI Intern at AAFAQ Advanced Solutions, Riyadh
-- 🎯 **Goal for the year** → Land a placement year for 2027/28
+- 🎯 **Looking for** → a Software Engineering internship / placement year for 2027/28
 
 ---
 
